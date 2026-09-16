@@ -42,5 +42,5 @@ estações meteorológicas espalhadas pelo país.
 
 O notebook foi feito para rodar no Google Colab. Basta abrir o arquivo `.ipynb`, 
 rodar as células em ordem e fazer upload do arquivo `Normal-Climatologica-TMAX.xlsx` 
-quando solicitado — o arquivo original está disponível em `data/Normal-Climatologica-TMAX.xlsx` 
+quando solicitado — o arquivo original está disponível em `Data/Normal-Climatologica-TMAX.xlsx` 
 neste repositório.
